@@ -1,0 +1,6 @@
+book:
+  title: "Tytuł"
+  total_pages: "Liczba stron"
+  published_date: "Data wydania"
+  genre: "Gatunek"
+  authors: "Autorzy"
